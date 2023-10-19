@@ -26,9 +26,9 @@ I'm a passionate Data Analyst with a love for extracting insights from data and 
 
 ## 🚀 Projects
 
-- [Case Study in Tableau][https://public.tableau.com/app/profile/borja.sg/viz/CaseStudy1ChurnRateAnalysisforDatalabelbyBorjaSG/CaseStudy]
+- [Case Study in Tableau](https://public.tableau.com/app/profile/borja.sg/viz/CaseStudy1ChurnRateAnalysisforDatalabelbyBorjaSG/CaseStudy)
 
-You can find more of my projects in my [Portfolio](link to your portfolio page).
+You can find more of my projects in my [Portfolio](https://www.linkedin.com/in/borjasg/details/projects/).
 
 ## 🌐 Connect with Me
 
