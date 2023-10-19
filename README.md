@@ -26,7 +26,7 @@ I'm a passionate Data Analyst with a love for extracting insights from data and 
 
 ## 🚀 Projects
 
-- [Case Study in Tableau]([link to project](https://public.tableau.com/app/profile/borja.sg/viz/CaseStudy1ChurnRateAnalysisforDatalabelbyBorjaSG/CaseStudy))
+- [Case Study in Tableau][https://public.tableau.com/app/profile/borja.sg/viz/CaseStudy1ChurnRateAnalysisforDatalabelbyBorjaSG/CaseStudy]
 
 You can find more of my projects in my [Portfolio](link to your portfolio page).
 
@@ -36,7 +36,7 @@ You can find more of my projects in my [Portfolio](link to your portfolio page).
 
 ## 📫 Contact
 
-- Email: [youremail@email.com](mailto:borjasilla@gmail.com)
+- Email: [borjasilla@gmail.com](mailto:borjasilla@gmail.com)
 
 ## 📊 My GitHub Stats
 
