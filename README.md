@@ -1,47 +1,32 @@
-# Hello, I'm Borja! 👋
+[![MasterHead](https://i.imgur.com/ghMWblG.png)](https://i.imgur.com/ghMWblG.png)
+<h1 align="center">Hi 👋, I'm Borja Silla</h1>
+<h3 align="center">A passionate data analyst from Spain</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pablo-programacion&label=Profile%20views&color=0e75b6&style=flat" alt="pablo-programacion" /> </p>
 
-## About Me
+- 📚 I’m currently learning **Pandas for Data Analysis**
 
-I'm a passionate Data Analyst with a love for extracting insights from data and turning them into actionable recommendations. My journey into the world of data began at IronHack's Data Analytics Bootcamp, and since then, I've been on an exciting adventure of exploring, analyzing, and visualizing data.
+- 💬 Ask me about **Python, SQL, Tableau**
 
-## 🌟 What I Do
+- 📫 How to reach me **borjasilla@gmail.com**
 
-- **Data Analysis:** I dig into data to uncover hidden patterns and trends.
-- **Data Visualization:** I believe in the power of compelling visuals to tell a story.
-- **Statistical Modeling:** From regression to clustering, I make data speak.
-- **Machine Learning:** I'm always learning, and my models are too!
-- **Data Wrangling:** I can turn messy data into a clean, well-structured format.
-- **SQL Wizardry:** My queries are as powerful as a wand.
+- ⚡ Fun fact **I am 50% Italian, 50% Spanish**
 
-## 🔧 Tools and Technologies
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/borjasg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/borjasg/" height="30" width="40" /></a>
+</p>
 
-- **Languages:** Python
-- **Data Science Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
-- **Database:** MySQL, SQLite
-- **Visualization:** Tableau, Power BI
-- **Version Control:** Git, GitHub
-- **IDE:** Jupyter, RStudio
-- **Big Data Tools:** Apache Spark, Hadoop
-- **Machine Learning Frameworks:** TensorFlow, Keras
+<h3 align="left">Languages and Tools:</h3>
 
-## 🚀 Projects
+<p align="left">  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>
 
-- [Case Study in Tableau](https://public.tableau.com/app/profile/borja.sg/viz/CaseStudy1ChurnRateAnalysisforDatalabelbyBorjaSG/CaseStudy)
+<div align="center">
+    <a href="https://github.com/BorjaSilla">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BorjaSilla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorjaSilla&layout=compact&theme=tokyonight"/>
+  </div>
+<div> 
 
-You can find more of my projects in my [Portfolio](https://www.linkedin.com/in/borjasg/details/projects/).
-
-## 🌐 Connect with Me
-
-- Let's connect on [LinkedIn](https://www.linkedin.com/in/borjasg/)!
-
-## 📫 Contact
-
-- Email: [borjasilla@gmail.com](mailto:borjasilla@gmail.com)
-
-## 📊 My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BorjaSilla&show_icons=true&theme=dark)
-
-## 🙏 Thanks for visiting!
-
-Thanks for dropping by. Feel free to explore my repositories and reach out if you'd like to collaborate or chat about all things data! 😊
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
