@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Borja Silla</h1>
 <h3 align="center">A passionate data analyst from Spain</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pablo-programacion&label=Profile%20views&color=0e75b6&style=flat" alt="pablo-programacion" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BorjaSilla&label=Profile%20views&color=0e75b6&style=flat" alt="BorjaSilla" /> </p>
 
 - 📚 I’m currently learning **Pandas for Data Analysis**
 
