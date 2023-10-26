@@ -37,11 +37,14 @@
 
 
 <div align="center">
-    <a href="https://github.com/BorjaSilla">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BorjaSilla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorjaSilla&layout=compact&theme=tokyonight"/>
-  </div>
-<div>
+    <div style="display: flex; align-items: center; justify-content: center;">
+        <img height="130em" src="https://github-readme-stats.vercel.app/api?username=BorjaSilla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <div style="margin-left: 100px;"></div> <!-- 100px of space -->
+        <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorjaSilla&layout=compact&theme=tokyonight"/>
+    </div>
+</div>
+
+
 
 
 </div>
