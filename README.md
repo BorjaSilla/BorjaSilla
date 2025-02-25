@@ -3,8 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=600&color=F7F7F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Borja+Silla+%F0%9F%98%80;A+passionate+Data+Analyst+%F0%9F%93%8A;50%25+Spanish%2C+50%25+Italian+(%CB%9A%CE%94%CB%9A);Lifelong+learning+%F0%9F%A4%93" alt="Typing SVG" /></a>
 
 
-- 📚 I’m constantly learning **Data Science**
-- 💬 Ask me about **Python, SQL, Tableau**
+- 📚 I’m constantly learning **Data Science** & **Cloud**
 - ⚡ Fun fact **I am 50% Italian, 50% Spanish**
 - 📫 How to reach me **borjasilla@gmail.com**
 
@@ -22,6 +21,10 @@
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="PowerBI">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+
+  
+  
     
 </p>
 
